@@ -20,3 +20,5 @@
 * Atualize o TaskContainer, com elementos do javascript
 * insira uma constante com todas as informações
 * Exporte o elemento
+
+![image](https://github.com/user-attachments/assets/aa529d53-f53d-4468-92ad-8af0d7296367)
